@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrokhimmirzaev&label=Profile%20views&color=0e75b6&style=flat" alt="ibrokhimmirzaev" /> </p>
 
-- 🔭 I’m currently working on **Shopping App**
+- 🔭 I’m currently working on **MyGo Taxi app**
 
 - 🌱 I’m currently learning **Flutter, Dart, Android development**
 
