@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrokhimmirzaev&label=Profile%20views&color=0e75b6&style=flat" alt="ibrokhimmirzaev" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/d5aa640a-bbd3-41c0-87bb-9ce3e2eeef7a.svg)](https://wakatime.com/@d5aa640a-bbd3-41c0-87bb-9ce3e2eeef7a)
+
 - 🔭 I’m currently working on **Elbozor company**
 
 - 🌱 I’m currently learning **Flutter, Dart, Android development**
