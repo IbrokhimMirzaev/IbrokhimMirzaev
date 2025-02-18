@@ -19,14 +19,14 @@
 - 📫 How to reach me **mirzaevibrokhim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex; align:right; gap: 12px;">
+<p align="left"
   <a href="https://t.me/Ibrokhim_Dev" target="_blank" rel="nofollow">
     <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/justibrohim" target="_blank" rel="nofollow">
     <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="justibrohim" height="40" width="40" />
   </a>
-</div>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
