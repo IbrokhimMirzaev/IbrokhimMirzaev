@@ -19,7 +19,7 @@
 - 📫 How to reach me **mirzaevibrokhim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"
+<p align="left">
   <a href="https://t.me/Ibrokhim_Dev" rel="nofollow">
     <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="40" width="40" />
   </a>
