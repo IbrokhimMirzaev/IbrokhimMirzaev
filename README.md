@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/Ibrokhim_Dev" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="64" width="64" />
   </a>
 </p>
 
