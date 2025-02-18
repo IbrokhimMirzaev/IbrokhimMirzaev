@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://t.me/Ibrokhim_Dev" rel="nofollow" style="margin-right: 10px;">
+	<a href="https://t.me/Ibrokhim_Dev" rel="nofollow">
 	<img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="40" width="40" />
 	</a>
     <a href="https://www.instagram.com/justibrohim" rel="nofollow">
