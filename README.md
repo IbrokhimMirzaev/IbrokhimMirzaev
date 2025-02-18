@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/Ibrokhim_Dev" target="_blank">
+  <a href="https://t.me/Ibrokhim_Dev" target="_blank" style="margin-right: 10px;">
     <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/justibrohim" target="_blank">
+  <a href="https://www.instagram.com/justibrohim" target="_blank" style="margin-left: 10px;">
     <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="justibrohim" height="40" width="40" />
   </a>
 </p>
