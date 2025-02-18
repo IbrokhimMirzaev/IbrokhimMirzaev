@@ -20,13 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://t.me/Ibrokhim_Dev" rel="nofollow" style="text-decoration: none">
+	<a href="https://t.me/Ibrokhim_Dev" rel="nofollow" style="margin-right: 10px;">
 	<img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="40" width="40" />
 	</a>
-    <a href="https://www.instagram.com/justibrohim" rel="nofollow" style="text-decoration: none">
+    <a href="https://www.instagram.com/justibrohim" rel="nofollow">
 	<img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="justibrohim" height="40" width="40" />
 	</a>   
-    <a href="https://www.linkedin.com/in/ibrohim-mirzaev-6b2a37247/" rel="nofollow" style="text-decoration: none">
+    <a href="https://www.linkedin.com/in/ibrohim-mirzaev-6b2a37247/" rel="nofollow">
 	<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="ibrohim-mirzaev-6b2a37247" height="40" width="40" />
 	</a>
 </p>
